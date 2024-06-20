@@ -1,0 +1,6 @@
+C:\Users\saivardhanm\source\repos\EXAM1-CC2\EXAM1-CC2\bin\Debug\EXAM1-CC2.exe.config
+C:\Users\saivardhanm\source\repos\EXAM1-CC2\EXAM1-CC2\bin\Debug\EXAM1-CC2.exe
+C:\Users\saivardhanm\source\repos\EXAM1-CC2\EXAM1-CC2\bin\Debug\EXAM1-CC2.pdb
+C:\Users\saivardhanm\source\repos\EXAM1-CC2\EXAM1-CC2\obj\Debug\EXAM1-CC2.csproj.CoreCompileInputs.cache
+C:\Users\saivardhanm\source\repos\EXAM1-CC2\EXAM1-CC2\obj\Debug\EXAM1-CC2.exe
+C:\Users\saivardhanm\source\repos\EXAM1-CC2\EXAM1-CC2\obj\Debug\EXAM1-CC2.pdb
