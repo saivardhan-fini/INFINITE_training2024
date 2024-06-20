@@ -1,0 +1,7 @@
+C:\Users\saivardhanm\source\repos\EMP\EMP\bin\Debug\EMP.exe.config
+C:\Users\saivardhanm\source\repos\EMP\EMP\bin\Debug\EMP.exe
+C:\Users\saivardhanm\source\repos\EMP\EMP\bin\Debug\EMP.pdb
+C:\Users\saivardhanm\source\repos\EMP\EMP\obj\Debug\EMP.csproj.AssemblyReference.cache
+C:\Users\saivardhanm\source\repos\EMP\EMP\obj\Debug\EMP.csproj.CoreCompileInputs.cache
+C:\Users\saivardhanm\source\repos\EMP\EMP\obj\Debug\EMP.exe
+C:\Users\saivardhanm\source\repos\EMP\EMP\obj\Debug\EMP.pdb
