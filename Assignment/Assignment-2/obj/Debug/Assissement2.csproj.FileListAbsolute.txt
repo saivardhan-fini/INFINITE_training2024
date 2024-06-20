@@ -1,0 +1,7 @@
+C:\Users\saivardhanm\source\repos\Assissement2\Assissement2\bin\Debug\Assissement2.exe.config
+C:\Users\saivardhanm\source\repos\Assissement2\Assissement2\bin\Debug\Assissement2.exe
+C:\Users\saivardhanm\source\repos\Assissement2\Assissement2\bin\Debug\Assissement2.pdb
+C:\Users\saivardhanm\source\repos\Assissement2\Assissement2\obj\Debug\Assissement2.csproj.AssemblyReference.cache
+C:\Users\saivardhanm\source\repos\Assissement2\Assissement2\obj\Debug\Assissement2.csproj.CoreCompileInputs.cache
+C:\Users\saivardhanm\source\repos\Assissement2\Assissement2\obj\Debug\Assissement2.exe
+C:\Users\saivardhanm\source\repos\Assissement2\Assissement2\obj\Debug\Assissement2.pdb
