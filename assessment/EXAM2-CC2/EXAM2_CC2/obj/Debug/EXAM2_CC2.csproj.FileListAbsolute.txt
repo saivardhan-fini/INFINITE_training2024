@@ -1,0 +1,7 @@
+C:\Users\saivardhanm\source\repos\EXAM2_CC2\EXAM2_CC2\bin\Debug\EXAM2_CC2.exe.config
+C:\Users\saivardhanm\source\repos\EXAM2_CC2\EXAM2_CC2\bin\Debug\EXAM2_CC2.exe
+C:\Users\saivardhanm\source\repos\EXAM2_CC2\EXAM2_CC2\bin\Debug\EXAM2_CC2.pdb
+C:\Users\saivardhanm\source\repos\EXAM2_CC2\EXAM2_CC2\obj\Debug\EXAM2_CC2.csproj.AssemblyReference.cache
+C:\Users\saivardhanm\source\repos\EXAM2_CC2\EXAM2_CC2\obj\Debug\EXAM2_CC2.csproj.CoreCompileInputs.cache
+C:\Users\saivardhanm\source\repos\EXAM2_CC2\EXAM2_CC2\obj\Debug\EXAM2_CC2.exe
+C:\Users\saivardhanm\source\repos\EXAM2_CC2\EXAM2_CC2\obj\Debug\EXAM2_CC2.pdb
