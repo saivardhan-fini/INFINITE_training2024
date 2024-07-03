@@ -1,0 +1,7 @@
+C:\Users\saivardhanm\source\repos\Exam3-CC3\Exam3-CC3\bin\Debug\Exam3-CC3.exe.config
+C:\Users\saivardhanm\source\repos\Exam3-CC3\Exam3-CC3\bin\Debug\Exam3-CC3.exe
+C:\Users\saivardhanm\source\repos\Exam3-CC3\Exam3-CC3\bin\Debug\Exam3-CC3.pdb
+C:\Users\saivardhanm\source\repos\Exam3-CC3\Exam3-CC3\obj\Debug\Exam3-CC3.csproj.AssemblyReference.cache
+C:\Users\saivardhanm\source\repos\Exam3-CC3\Exam3-CC3\obj\Debug\Exam3-CC3.csproj.CoreCompileInputs.cache
+C:\Users\saivardhanm\source\repos\Exam3-CC3\Exam3-CC3\obj\Debug\Exam3-CC3.exe
+C:\Users\saivardhanm\source\repos\Exam3-CC3\Exam3-CC3\obj\Debug\Exam3-CC3.pdb
